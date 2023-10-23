@@ -15,7 +15,7 @@ As a developer, this job has taught me the symmetry between the writing of the H
 
 ## Installation
 
-You can visit the page <a href="https://taichi-method.github.io/Horiseon-main-page">here </a>
+You can visit the page here at <a href="https://taichi-method.github.io/Horiseon-main-page" target="_blank">https://taichi-method.github.io/Horiseon-main-page </a>
 ## Usage
 
 Provide instructions and examples for use. Include screenshots as needed.
