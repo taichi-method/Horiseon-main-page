@@ -9,9 +9,11 @@ This is what I've done to reach those goals:<br />
 - I have changed all the non - semantic elements to semantic ones where possible.
 - I have refreshed the CSS code so that it interacts with the new writing of the HTML.
 - I have made sure that the new website preserves the looks and functionality of the original page. 
-- I have rearranged and streamlined the writing of the HTML and CSS files; the sections are now arranged in logical clusters to make sure that future developers can pickup and interpret the code more effortlessly.
+- I have rearranged and streamlined the writing of the HTML and CSS files; the sections are now arranged in logical clusters to make sure that future developers can pickup and interpret the code with less effort.
 
-As a developer, this job has taught me the symmetry between the writing of the HTML code and the CSS and their interdependencies; I've also consolidated my knowledge of the usage of classes or IDs and learned how to use tags I did not know beforehand, notably the <aria-label> one that I used to create an ALT text for an image referenced in the stylesheet.
+As a developer, this job has taught me the symmetry between the writing of the HTML code and the CSS and their interdependencies; I've also consolidated my knowledge of the usage of classes or IDs and learned how to use tags I did not know beforehand, notably the <aria-label> one that I used to create an ALT text for an image referenced in the stylesheet.<br />
+<br />
+In the interest of anti - plagiarism rules, I declare I have used non original material as a starting point, as indicated by the job sheet. You can see the starter code at the following URL: <a href="https://github.com/taichi-method/Horiseon-main-page/tree/main/Starter%20Code">https://github.com/taichi-method/Horiseon-main-page/tree/main/Starter%20Code </a>
 
 ## Installation
 
